@@ -1,4 +1,4 @@
-
+duree_apprentissage= 20
 ###test affichage
 liste_exemples=[]
 axeX=[]
