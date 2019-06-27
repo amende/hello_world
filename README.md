@@ -7,9 +7,4 @@ don't touch this
 
 nice cool feature from me.
 
-je pense que la vie
-c'est comme un kiwi
-tout rond
-c'est mieux quand c'est vert
-plein de pépins
-mais plein de vitamines
+ça va tout casser
